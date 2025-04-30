@@ -1,3 +1,3 @@
-//branch-B1
+//merge
 public class changeC4 {
 }
