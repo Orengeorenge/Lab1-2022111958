@@ -1,6 +1,8 @@
 import java.io.*;
 import java.util.*;
 
+//Easy Test.txt
+//Cursed Be The Treasure.txt
 public class Lab1 {
     // 用 Map 来表示有向图
     // key：单词（节点），value：指向其他单词的边及权重（次数）
